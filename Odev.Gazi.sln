@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev.Gazi", "Odev.Gazi.csproj", "{B97F380C-223E-4371-A8C2-2872347D5F86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97F380C-223E-4371-A8C2-2872347D5F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97F380C-223E-4371-A8C2-2872347D5F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97F380C-223E-4371-A8C2-2872347D5F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97F380C-223E-4371-A8C2-2872347D5F86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F06941-7291-440C-A2C0-1F7855944968}
+	EndGlobalSection
+EndGlobal
